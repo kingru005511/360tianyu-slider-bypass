@@ -1,6 +1,8 @@
 # 360tianyu-slider-bypass
 天御滑块绕过
 
+自用运行，请勿传播
+
 http://use.my-api.ip-ddns.com/
 
 使用方法：
