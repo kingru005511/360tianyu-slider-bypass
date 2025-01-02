@@ -1,6 +1,6 @@
 # 360tianyu-slider-bypass
 
-天御滑块绕过
+360/三六零天御滑块验证码绕过Bypass
 
 ![image](https://github.com/user-attachments/assets/cbb1567e-6ba6-4184-a7c2-fdd07ef47740)
 
